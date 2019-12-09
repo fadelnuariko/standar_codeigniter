@@ -7,6 +7,7 @@ CodeIgniter for Front-End Development
 3. Get Request -> sendCurl(host()."/end_point_param",$data=null,$method="get",$header=$headers);
 4. Base Url -> application/config/config.php
 5. Run php -S your_base_url
+6. Folder assets in root folder
 
 ##################
 For Headers if necessary
