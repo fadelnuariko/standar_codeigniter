@@ -10,6 +10,6 @@ CodeIgniter for Front-End Development
 For Headers if necessary
 ##################
 
-	$headers = array();
-  $headers[] = "Accept: application/json";
-  $headers[] = "Authorization: Bearer ".$token;
+$headers = array();
+$headers[] = "Accept: application/json";
+$headers[] = "Authorization: Bearer ".$token;
